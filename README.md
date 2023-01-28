@@ -49,7 +49,7 @@ for i in range(n):
 ```
 
 ## Output:
-![gaussian](,/gaussian.png)
+![gaussian](./gaussian.png)
 
 
 ## Result:
